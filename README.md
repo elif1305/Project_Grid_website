@@ -1,5 +1,4 @@
-<p>Elif's Space<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+<p>Elif's Space<img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-space-space-and-galaxy-itim2101-flat-itim2101.png" align='right'/></p>
 
 ## Project Name: Bakery Website
 
@@ -8,21 +7,20 @@ Project aims to create an basic Bakery website.
 
 ## Problem Statement
 
-- Your company has recently started on a project that aims to create a landing page. So you and your colleagues have started to work on the project.
+- Your company has recently started on a project that aims to create a Bakery Website. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton 
 
 ```
 002-google-landing-page (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Definition of the project)   
-        |----appicon.png   
-        |----gfavicon.png
-		|----google_microphone.png
-		|----googlelogo.png
-		|----icon-menu.jpg
-		|----magnifying_glass.png
+|----readme.md                 
+|----images               
+        |----favicon.png
+		|----img1.png
+		|----img2.png
+		|----img3.png
+		|----...
 |----solution
         |----index.html  
         |----style.css   
@@ -31,21 +29,17 @@ Project aims to create an basic Bakery website.
 
 ## Expected Outcome
 
-![Project 002 Snapshot](Project_002_.png)
+![Project 002 Snapshot](./outcome1.jpg)
+![Project 002 Snapshot](./outcome2.jpg)
+![Project 002 Snapshot](./outcome3.jpg)
 
-## Objective
-
-Build a Landing that is functionally similar to this: [Google Landing Page](https://aaron-clarusway.github.io/google-landing--page/)
 
 ### At the end of the project, following topics are to be covered;
 
 - HTML 
 
-- List Properties-Tables / CSS-The Display Property-The position Property
+- CSS-The Display Property-The position Property
 
-- Overflow Property-The float Property-Opacity / Transparency-Units in CSS
-
-- CSS Setting height and width-CSS Outline-CSS Combinators
 
 
 ### At the end of the project, students will be able to;
@@ -53,14 +47,6 @@ Build a Landing that is functionally similar to this: [Google Landing Page](http
 - improve coding skills within HTML & CSS
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-## Steps to Solution
-  
-- Step 1: Download or clone project repo on Github 
-
-- Step 2: Create project folder for local public repo on your pc
-
-- Step 3: Create Google Landing Page
 
 
 ## Notes
@@ -72,5 +58,5 @@ Build a Landing that is functionally similar to this: [Google Landing Page](http
 -  [Images](./images)
 
 
-<center> ⌛ Happy Coding  ✍ </center>
+<center>  Happy Ending  ✍ </center>
 
