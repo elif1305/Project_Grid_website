@@ -1,4 +1,4 @@
-<p>Elif's Space<img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-space-space-and-galaxy-itim2101-flat-itim2101.png" align='right'/></p>
+<p align='right'>Elif's Space<img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-space-space-and-galaxy-itim2101-flat-itim2101.png" align='right'/></p>
 
 ## Project Name: Bakery Website
 
