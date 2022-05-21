@@ -12,7 +12,7 @@ Project aims to create an basic Bakery website.
 ## Project Skeleton 
 
 ```
-002-google-landing-page (folder)
+Bakery Project;
 |
 |----readme.md                 
 |----images               
