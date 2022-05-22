@@ -3,7 +3,7 @@
 ## Project Name: Bakery Website
 
 ## Description
-I aim to create an basic Bakery website.
+I aim to create an basic Bakery website using with CSS-Grid.
 
 ## Problem Statement
 
