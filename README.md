@@ -3,7 +3,7 @@
 ## Project Name: Bakery Website
 
 ## Description
-Project aims to create an basic Bakery website.
+I aim to create an basic Bakery website.
 
 ## Problem Statement
 
