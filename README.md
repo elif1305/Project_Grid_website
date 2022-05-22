@@ -29,9 +29,8 @@ Bakery Project;
 
 ## Expected Outcome
 
-![Project 002 Snapshot](./outcome1.jpg)
-![Project 002 Snapshot](./outcome2.jpg)
-![Project 002 Snapshot](./outcome3.jpg)
+![Project 002 Snapshot](./images/BakeryPage.gif)
+
 
 
 ### At the end of the project, following topics are to be covered;
